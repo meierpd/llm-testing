@@ -1,0 +1,4 @@
+# One prompt per line
+Give me 5 practical ways to reduce memory usage when running a 7B model locally.
+Write a concise product description for noise-cancelling headphones aimed at students.
+Explain the difference between latency and throughput in LLM inference.
